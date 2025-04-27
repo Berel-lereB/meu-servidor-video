@@ -1,5 +1,13 @@
+# Ignora a pasta do sistema (não deve ser rastreada)
+System Volume Information/
+
+# Ignora node_modules (dependências do projeto Node.js)
 node_modules/
+
+# Ignora a pasta de vídeos (serão enviados manualmente pro servidor)
 videos/
+
+# Ignora arquivos de vídeo (se necessário)
 *.mp4
 *.mov
 *.avi
