@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
     <h1>🎥 Meu Catálogo de Vídeos</h1>
     <p>Escolha um vídeo para assistir:</p>
     <ul>
-      <li><a href="/video/seu-video1.mp4">Seu Vídeo 1</a></li>
+      <li><a href="/video/01 goblin-slayer-dublado-ep-1.mp4">01 goblin-slayer-dublado-ep-1.mp4</a></li>
       <li><a href="/video/seu-video2.mp4">Seu Vídeo 2</a></li>
       <!-- Adicione mais links conforme necessário -->
     </ul>
