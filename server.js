@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
     <h1>🎥 Meu Catálogo de Vídeos</h1>
     <p>Coloque seus vídeos na pasta /videos!</p>
     <video width="640" controls>
-      <source src="/videos/seu-video.mp4" type="video/mp4">
+      <source src="/videos/01.mp4" type="video/mp4">
       Seu navegador não suporta vídeo HTML5.
     </video>
   `);
